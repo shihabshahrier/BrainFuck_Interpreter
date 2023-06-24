@@ -13,7 +13,7 @@ Before using the Brainfuck interpreter, make sure you have Python installed on y
 
 - Copy code
 
-$ [git clone https://github.com/your-username/brainfuck-interpreter.git] [Optional]
+```$ git clone https://github.com/your-username/brainfuck-interpreter.git``` [Optional]
 
 If you don't have Python installed, download and install it from the Python website.
 
@@ -25,7 +25,7 @@ If you don't have Python installed, download and install it from the Python webs
 - Run the interpreter with the desired Brainfuck program:
 
 ### Copy code
-$ [python bf.py program.bf]
+$ ```python bf.py program.bf```
 
 Replace program.bf with the path to your Brainfuck program file.
 The interpreter will execute the Brainfuck program and display the output on the console.
