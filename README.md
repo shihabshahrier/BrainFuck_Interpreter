@@ -13,7 +13,7 @@ Before using the Brainfuck interpreter, make sure you have Python installed on y
 
 - Copy code
 
-```$ git clone https://github.com/your-username/brainfuck-interpreter.git``` [Optional]
+$ ```git clone https://github.com/your-username/brainfuck-interpreter.git``` [Optional]
 
 If you don't have Python installed, download and install it from the Python website.
 
